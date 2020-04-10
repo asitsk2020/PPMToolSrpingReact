@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff59e16b-37de-4782-9e65-b9259d01ace6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aLcs5V1czyP4IiB6WBOGkZFX5T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PPMToolApplication" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PpmtoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="udemy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.udemy.ppmtool.PpmtoolApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff59e16b-37de-4782-9e65-b9259d01ace6" name="Default Changelist" comment="" />
+      <created>1586518519418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586518519418</updated>
+      <workItem from="1586518539004" duration="2644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1586548484306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586548484306" />
+    <state width="1322" height="169" key="GridCell.Tab.0.bottom" timestamp="1586548493712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586548493712" />
+    <state width="1322" height="169" key="GridCell.Tab.0.center" timestamp="1586548493712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586548493712" />
+    <state width="1322" height="169" key="GridCell.Tab.0.left" timestamp="1586548493712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586548493712" />
+    <state width="1322" height="169" key="GridCell.Tab.0.right" timestamp="1586548493712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586548493712" />
+  </component>
+</project>
